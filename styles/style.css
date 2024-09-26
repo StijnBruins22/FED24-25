@@ -15,9 +15,10 @@
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
-}
+	--color-text: #111;
+	--color-background: #eee;
+	--background-image: url('pad/naar/je/achtergrondafbeelding.jpg'); 
+  }
 
 
 
