@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Stijn Bruins (vervangen door jouw naam)
+  Stijn Bruins 
 
   #### Je startniveau:
-  Blauw (kies uit zwart, rood óf blauw)
+  Blauw 
 
   #### Je focus:
-  Responsive (kies uit responsive óf surface plane)
+  Responsive 
  
 </details>
 
